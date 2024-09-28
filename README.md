@@ -8,7 +8,7 @@
 </div>
 
 # 💫 About Me:
-Soy un desarrollador Full Stack con experiencia en proyectos web utilizando HTML, CSS, JavaScript, React, Redux y Node.js. Mi enfoque abarca tanto el desarrollo del lado del cliente como del servidor, permitiéndome construir aplicaciones completas y escalables. Disfruto del trabajo en equipo y la autonomía, y me apasiona aprender y mantenerme actualizado para alcanzar los objetivos en mis proyectos.<br><br>👨‍💻 All of my projects are available at https://emmanuel-iota.vercel.app/
+Soy un desarrollador Full Stack con experiencia en proyectos web utilizando HTML, CSS, JavaScript, React, Redux y Node.js. Mi enfoque abarca tanto el desarrollo del lado del cliente como del servidor, permitiéndome construir aplicaciones completas y escalables. Disfruto del trabajo en equipo y la autonomía, y me apasiona aprender y mantenerme actualizado para alcanzar los objetivos en mis proyectos.<br><br>👨‍💻 All of my projects are available at en ningun lado salu2
 
 
 ## 🌐 Socials:
